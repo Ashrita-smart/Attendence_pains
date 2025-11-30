@@ -9,7 +9,7 @@
 #Else  Not Allowed
 medication=input("Does this studdent have medical problems?:")
 
-if medication=="Yes":
+if medication="Yes":
     print("Allowed")
 else:
     number=int(input("enter the students attendence sheet"))
